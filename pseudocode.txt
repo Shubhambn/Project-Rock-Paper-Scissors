@@ -1,0 +1,11 @@
+start
+get the user no. 0-1-2
+get the random no. 0-1-2
+fun-rand-no{
+    if[ user no.= random no.]{
+        alert win
+    }
+    else{
+        alert loss
+    }
+}
